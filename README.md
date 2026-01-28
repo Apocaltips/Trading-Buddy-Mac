@@ -13,6 +13,7 @@ This repo exists so any Codex CLI instance (Mac or Windows) can pull a **complet
 - `docs/RUNBOOK.md` — How to build, run, and test safely.
 - `docs/COMPARISON_PLAN.md` — Metrics for comparing 10‑hour vs 2‑hour runs.
 - `docs/RISKS.md` — Known risks + mitigations.
+- `docs/GETTING_STARTED_WINDOWS.md` — Quick start for Windows Codex CLI.
 - `beads/plan.yaml` — Machine‑readable BEADS plan.
 
 ## Golden Rules
@@ -27,4 +28,3 @@ This repo exists so any Codex CLI instance (Mac or Windows) can pull a **complet
 4) Run a **short plumbing test** (5–10 min).
 5) Run a **2‑hour paper test** (if not sharing the Mac’s public IP).
 6) Push results back to GitHub for review.
-
