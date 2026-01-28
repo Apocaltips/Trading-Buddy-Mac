@@ -14,6 +14,9 @@ This repo exists so any Codex CLI instance (Mac or Windows) can pull a **complet
 - `docs/COMPARISON_PLAN.md` — Metrics for comparing 10‑hour vs 2‑hour runs.
 - `docs/RISKS.md` — Known risks + mitigations.
 - `docs/GETTING_STARTED_WINDOWS.md` — Quick start for Windows Codex CLI.
+- `docs/TROUBLESHOOTING.md` — Common errors + fixes.
+- `docs/ENV_VARS.md` — Environment variables.
+- `docs/PREFLIGHT_CHECKLIST.md` — Pre‑test checklist.
 - `beads/plan.yaml` — Machine‑readable BEADS plan.
 
 ## Golden Rules
