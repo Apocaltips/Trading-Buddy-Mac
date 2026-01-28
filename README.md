@@ -17,6 +17,8 @@ This repo exists so any Codex CLI instance (Mac or Windows) can pull a **complet
 - `docs/TROUBLESHOOTING.md` — Common errors + fixes.
 - `docs/ENV_VARS.md` — Environment variables.
 - `docs/PREFLIGHT_CHECKLIST.md` — Pre‑test checklist.
+- `docs/PAIR_MAPPING_TABLE.md` — USD → USDT map.
+- `docs/REPORT_TEMPLATE.md` — 2‑hour report template.
 - `beads/plan.yaml` — Machine‑readable BEADS plan.
 
 ## Golden Rules
